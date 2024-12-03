@@ -5,3 +5,7 @@ function print (){
 }
 
 print();
+
+function greeting(name){
+    console.log(`hello ${name}, I hope you are doing well`);
+}
